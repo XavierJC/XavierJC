@@ -1,7 +1,7 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
 <img src="./108451105_p0-宵宫.jpg" width="100%">
 
-# Hi there, I'm [Xavier] 👋
+# Hi there, I'm Xavier 👋
 
 ### 🤖 AI Undergraduate | System & Algorithm Enthusiast | Creator
 
@@ -14,19 +14,6 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 - 🎨 **Beyond Code:** I love character sketching (restoring and polishing art), and I'm a big fan of Genshin Impact & Arknights!
 
 ---
-
-## 🛠️ Tech Stack
-
-**Languages & Systems**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly%20x86--64-1572B6?style=for-the-badge&logo=gnu&logoColor=white" />
-</p>
-
-
 
 ## 📫 Let's Connect
 
