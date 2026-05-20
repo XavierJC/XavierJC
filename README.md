@@ -34,23 +34,6 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 </p>
 
 
-## 📊 Stats & Activity
-
-<div align="center">
-  <!-- 替换下面 URL 中的 '你的GitHub用户名' -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XavierJC&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJC&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- 替换下面 URL 中的 '你的LeetCode用户名' -->
-  <img src="https://leetcard.jacoblin.cool/你的LeetCode用户名?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Stats" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <p>
