@@ -19,7 +19,7 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 
 <p>
   <!-- 替换为你的联系方式链接 -->
-  <a href="mailto:tfbjincheng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tfbjincheng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- 底部小彩蛋 -->
