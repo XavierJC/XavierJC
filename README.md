@@ -1,5 +1,5 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
-<img src="./108451105_p0-宵宫.jpg" width="100%">
+<img src="./108451105_p0-宵宫.jpg" style = "width:auto; height = 80%;">
 
 # Hi there, I'm Xavier 👋
 
