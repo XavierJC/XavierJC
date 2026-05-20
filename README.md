@@ -1,5 +1,5 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
-<img src="https://www.pixiv.net/artworks/91831124" width="100%">
+<img src="https://via.placeholder.com/1000x200/FFB6C1/FFFFFF?text=Welcome+to+My+Profile" width="100%" alt="108451105_p0-宵宫.jpg">
 
 # Hi there, I'm [Xavier] 👋
 
@@ -26,12 +26,6 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
   <img src="https://img.shields.io/badge/Assembly%20x86--64-1572B6?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
-**Tools & Domains**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logisim-4B8BBE?style=for-the-badge&logo=circuitverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 
 ## 📫 Let's Connect
