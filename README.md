@@ -1,7 +1,7 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
-<img src="https://via.placeholder.com/1000x200/FFB6C1/FFFFFF?text=Welcome+to+My+Profile" width="100%" alt="Banner Image">
+<img src="https://www.pixiv.net/artworks/91831124" width="100%" alt="Banner Image">
 
-# Hi there, I'm [你的名字或昵称] 👋
+# Hi there, I'm [Xavier] 👋
 
 ### 🤖 AI Undergraduate | System & Algorithm Enthusiast | Creator
 
@@ -9,10 +9,8 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 
 ## 🚀 About Me
 
-- 🎓 **Studying:** Artificial Intelligence, Digital Logic, Data Structures & Algorithms.
-- 🌱 **Currently Exploring:** Java development, Machine Learning (Decision Trees & beyond), and Robotics LLM integration.
-- ⚙️ **Deep Dive:** Fascinated by x86-64 Assembly, memory layouts, and building things from scratch (like my C-based Tiny Search Engine).
-- 💡 **Algorithm Training:** Regularly solving problems on LuoGu and LeetCode to sharpen my algorithmic thinking.
+- 🎓 **Studying:** Artificial Intelligence, Data Structures & Algorithms.
+- 🌱 **Currently Exploring:** Java development, Machine Learning and Robotics LLM integration.
 - 🎨 **Beyond Code:** I love character sketching (restoring and polishing art), and I'm a big fan of Genshin Impact & Arknights!
 
 ---
@@ -35,29 +33,13 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## 🏆 Featured Projects
-
-### 🔍 [Tiny Search Engine](你的项目链接)
-A lightweight search engine implemented in **C**. 
-* Developed a robust inverted index from scratch.
-* Implemented efficient file-based data persistence.
-* Cross-platform compilation utilizing Ubuntu and Visual Studio.
-
-### 🌳 [ID3 Decision Tree Implementation](你的项目链接)
-A Machine Learning experiment built with **Python**.
-* Implemented the core ID3 algorithm using entropy-based calculations.
-* Integrated data visualization to evaluate precision and recall metrics.
-
----
 
 ## 📊 Stats & Activity
 
 <div align="center">
   <!-- 替换下面 URL 中的 '你的GitHub用户名' -->
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XavierJC&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJC&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
@@ -73,8 +55,7 @@ A Machine Learning experiment built with **Python**.
 
 <p>
   <!-- 替换为你的联系方式链接 -->
-  <a href="mailto:你的邮箱@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="你的博客或主页链接"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+  <a href="mailto:tfbjincheng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- 底部小彩蛋 -->
