@@ -1,5 +1,5 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
-<img src="https://www.pixiv.net/artworks/91831124" width="100%" alt="Banner Image">
+<img src="https://www.pixiv.net/artworks/91831124" width="100%">
 
 # Hi there, I'm [Xavier] 👋
 
