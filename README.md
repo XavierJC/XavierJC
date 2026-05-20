@@ -10,7 +10,7 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 
 - 🎓 **Studying:** Artificial Intelligence, Data Structures & Algorithms.
 - 🌱 **Currently Exploring:** Java development, Machine Learning and Robotics LLM integration.
-- 🎨 **Beyond Code:** I love character sketching (restoring and polishing art), and I'm a big fan of Genshin Impact & Arknights!
+- 🎨 **Beyond Code:** I love character sketching, and I'm a big fan of Genshin Impact & Arknights!
 
 ---
 
