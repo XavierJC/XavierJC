@@ -1,4 +1,3 @@
-<!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
 <img src="./108451105_p0-宵宫.jpg" style = "height: 300px; width: auto;">
 
 # Hi there, I'm Xavier 👋
@@ -18,8 +17,10 @@ I'm a sophomore majoring in Artificial Intelligence, passionate about uncovering
 ## 📫 Let's Connect
 
 <p>
-  <!-- 替换为你的联系方式链接 -->
-  <a href="tfbjincheng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </a>
+  <a href="mailto:tfbjincheng@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tfbjincheng%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  </a>
 </p>
 
 <!-- 底部小彩蛋 -->
