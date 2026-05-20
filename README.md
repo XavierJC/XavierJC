@@ -1,5 +1,5 @@
 <!-- 这里可以替换成你自己的高清手绘角色线稿或插画作为 Banner 头图 -->
-<img src="https://via.placeholder.com/1000x200/FFB6C1/FFFFFF?text=Welcome+to+My+Profile" width="100%" alt="108451105_p0-宵宫.jpg">
+<img src="./108451105_p0-宵宫.jpg" width="100%">
 
 # Hi there, I'm [Xavier] 👋
 
